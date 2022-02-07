@@ -1,0 +1,53 @@
+
+class Words:
+    #Keywords
+    StartProgram = 'START_PROGRAM'
+    EndProgram = 'END_PROGRAM.'
+    StartSub = 'START_SUB'
+    EndSub = 'END_SUB.'
+    GoSub = 'GOSUB'
+    Code = 'CODE'
+    If = 'IF'
+    Then = 'THEN'
+    Else = 'ELSE'
+    EndIf = 'END_IF'
+    While = 'WHILE'
+    Do = 'DO'
+    EndWhile = 'END_WHILE'
+    Int = 'INT'
+    String = 'STRING'
+    Print = 'PRINT'
+    Input = 'INPUT'
+    #Symbols
+    softOpen = '('
+    softClose = ')'
+    hardOpen = '['
+    hardClose = ']'
+    quote = ' " '
+    semi = ';'
+    assignment = ':='
+    colon = ':'
+    multOpT = '*'
+    multOpD = '/'
+    addOpP = '+'
+    addOpS = '-'
+    greaterThan = '>'
+    lessThan = '<'
+    lessThanEqual = '=<'
+    greaterThanEqual = '=>'
+    Equal = '='
+    notEqual = '!='
+
+class Numbers:
+    #Integers
+    one = '1'
+    two = '2'
+    three = '3'
+    four = '4'
+    five = '5'
+    six = '6'
+    seven = '7'
+    eight = '8'
+    nine = '9'
+
+
